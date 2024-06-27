@@ -1,5 +1,3 @@
-
-
 const intialState = { fact: [] }
 
 const reducerFunction = (state = intialState, action) => {
